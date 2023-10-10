@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vsn0wflak3
-- 🌱 I’m currently doing a Bachelors Degree in Computer Science and Engineering at SSN College Of Engineering.
+- 🌱 I’m done a Bachelors Degree in Computer Science and Engineering at SSN College Of Engineering.
 - 📫 How to reach me LinkedIn: www.linkedin.com/in/varsini-s-011408
 
 <!---
